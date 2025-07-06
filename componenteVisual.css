@@ -1,0 +1,12 @@
+/* Diseño de todo el cuadro del captcha */
+.captcha-cuadro {
+  width: 260px;
+  background-color: white;
+}
+
+/* Diseño del cuadro en donde se mostrará el código */
+.captcha-canvas {
+  border: 1px solid #ccc;
+  background-color: #eee;
+}
+
