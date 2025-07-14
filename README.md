@@ -86,13 +86,84 @@ Usa mat-datepicker y permite asignar clases personalizadas a fechas específicas
 Muestra un calendario embebido directamente en la interfaz, sin desplegarlo desde un input. Es útil para selección visual de fechas.
 ----------------------------------------------------------------------------------------------------------------------------
 
+<img width="383" height="427" alt="image" src="https://github.com/user-attachments/assets/b7c2f523-08ce-429c-8216-8b4b6f36d7b0" />
 
+----------------------------------------------------------------------------------------------------------------------------
+
+**Grupo de Pestañas Alineadas**
+
+<app-tab-group-align>
+Ejemplo de cómo alinear y controlar grupos de pestañas (mat-tab-group) para mostrar contenido segmentado y navegable.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+**Barra de Herramientas**
+
+<app-toolbar-overview>
+Muestra el uso de mat-toolbar para encabezados o barras de herramientas, que pueden incluir títulos, botones, menús, etc.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+**Menú con Posición**
+
+<app-menu-position>
+Ejemplo de mat-menu que demuestra cómo posicionar menús contextuales en distintos lados (arriba, abajo, izquierda, derecha).
+
 ----------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
+
+**Panel de Expansión con Expandir/Colapsar Todo**
+
+<app-expansion-expand-collapse-all>
+Demuestra cómo controlar múltiples paneles de expansión (mat-expansion-panel) con un botón que expande o colapsa todos simultáneamente.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+**Tabla Básica**
+
+<app-table-basic>
+Muestra una tabla simple con mat-table. Se puede usar para mostrar datos organizados en filas y columnas con soporte para ordenamiento y filtrado.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="799" height="652" alt="image" src="https://github.com/user-attachments/assets/53b16f57-cb06-47ed-8560-7362ff413777" />
+
+----------------------------------------------------------------------------------------------------------------------------
+**Snack-Bar (Notificación) con Posición**
+
+<app-snack-bar-position>
+Ejemplo de MatSnackBar mostrando cómo mostrar notificaciones temporales en posiciones específicas de la pantalla.
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="411" height="73" alt="image" src="https://github.com/user-attachments/assets/cb9d1a2d-f557-4f43-91a5-e00db7607775" />
+
+<img width="133" height="60" alt="image" src="https://github.com/user-attachments/assets/a113a456-3020-4cc6-b82c-e456c1a0c902" />
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+**Indicador de Carga (Spinner)**
+
+<app-progress-spinner-overview>
+Muestra el mat-progress-spinner, que es un círculo de carga animado usado para indicar que se está realizando una tarea.
+  
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="189" height="135" alt="image" src="https://github.com/user-attachments/assets/132c4fbd-7786-4b12-84e0-9acf1cf56c8d" />
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
