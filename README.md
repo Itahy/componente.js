@@ -17,12 +17,22 @@ Este componente muestra un grupo de botones tipo "toggle", que permiten seleccio
 
 <app-form-field-prefix-suffix-example>
 Demuestra un mat-form-field que incluye un prefijo o sufijo (como íconos o texto adicional), normalmente usados para enriquecer la experiencia de entrada del usuario (por ejemplo, añadir $ antes de una cantidad).
+  
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="582" height="161" alt="image" src="https://github.com/user-attachments/assets/ba6dfde4-aae6-4923-a6f4-5ebbcb1e6d90" />
+
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **Iconos**
 
 <app-icon-overview-example>
 Muestra cómo se pueden usar los iconos de Angular Material (<mat-icon>) en una aplicación. Permite incluir gráficos simples en botones, formularios o listas, usando la fuente de Material Icons.
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="173" height="110" alt="image" src="https://github.com/user-attachments/assets/6a25793e-2aeb-4cac-a13b-32215fa6f199" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **Autocompletado**
