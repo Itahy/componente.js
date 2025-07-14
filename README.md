@@ -29,6 +29,7 @@ Demuestra un mat-form-field que incluye un prefijo o sufijo (como íconos o text
 
 <app-icon-overview-example>
 Muestra cómo se pueden usar los iconos de Angular Material (<mat-icon>) en una aplicación. Permite incluir gráficos simples en botones, formularios o listas, usando la fuente de Material Icons.
+  
 ----------------------------------------------------------------------------------------------------------------------------
 
 <img width="173" height="110" alt="image" src="https://github.com/user-attachments/assets/6a25793e-2aeb-4cac-a13b-32215fa6f199" />
