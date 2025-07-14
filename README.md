@@ -6,7 +6,8 @@
 
 <app-button-toggle-appearance-example>
 Este componente muestra un grupo de botones tipo "toggle", que permiten seleccionar uno o varios valores como si fueran interruptores (on/off). Son útiles para filtros, opciones exclusivas o multiselección
-----------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 <img width="586" height="183" alt="image" src="https://github.com/user-attachments/assets/fe72b094-fb02-401e-94cb-6900b588705f" />
 ----------------------------------------------------------------------------------------------------------------------------
 
