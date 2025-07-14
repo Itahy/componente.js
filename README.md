@@ -40,24 +40,44 @@ Muestra cómo se pueden usar los iconos de Angular Material (<mat-icon>) en una 
 
 <app-mat-autocomplete>
 Implementa un campo de entrada con sugerencias automáticas conforme el usuario escribe. Muy útil para búsquedas rápidas o entradas asistidas como correos, países, etc.
+  
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="664" height="133" alt="image" src="https://github.com/user-attachments/assets/4c640c83-50f3-4184-a1d6-d146d75753bd" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **Card Footer**
 
 <app-card-footer>
 Ejemplo de una tarjeta (mat-card) con una sección de pie de página. Se utiliza para mostrar contenido visual organizado con acciones al pie (como botones).
+
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="499" height="645" alt="image" src="https://github.com/user-attachments/assets/55b1ef26-2fd8-424c-a505-bccab30fc4f4" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **Chips con Avatar**
 
 <app-chips-avatar>
 Muestra chips (etiquetas interactivas) que pueden contener avatares, iconos o texto. Útiles para representar elementos seleccionados, etiquetas, contactos, etc.
+  
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="408" height="48" alt="image" src="https://github.com/user-attachments/assets/1efaf424-6518-4976-88f0-1d6df3b7d4cf" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **Selector de Fecha con Clase**
 
 <app-datepicker-date-class>
 Usa mat-datepicker y permite asignar clases personalizadas a fechas específicas (por ejemplo, marcar feriados en rojo).
+  
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="346" height="88" alt="image" src="https://github.com/user-attachments/assets/0af32c33-970f-44ed-9c80-4425a7fb6f12" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **Calendario Inline**
@@ -65,6 +85,8 @@ Usa mat-datepicker y permite asignar clases personalizadas a fechas específicas
 <app-datepicker-inline-calendar>
 Muestra un calendario embebido directamente en la interfaz, sin desplegarlo desde un input. Es útil para selección visual de fechas.
 ----------------------------------------------------------------------------------------------------------------------------
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
