@@ -97,6 +97,7 @@ Ejemplo de cómo alinear y controlar grupos de pestañas (mat-tab-group) para mo
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+<img width="1206" height="232" alt="image" src="https://github.com/user-attachments/assets/82c26e9e-a054-42c1-afdf-8b11f1ca5a88" />
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -107,6 +108,8 @@ Muestra el uso de mat-toolbar para encabezados o barras de herramientas, que pue
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+<img width="1213" height="84" alt="image" src="https://github.com/user-attachments/assets/8fc8badc-7069-43ef-bb51-63b9ef8d6602" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **Menú con Posición**
@@ -115,6 +118,8 @@ Muestra el uso de mat-toolbar para encabezados o barras de herramientas, que pue
 Ejemplo de mat-menu que demuestra cómo posicionar menús contextuales en distintos lados (arriba, abajo, izquierda, derecha).
 
 ----------------------------------------------------------------------------------------------------------------------------
+
+<img width="295" height="78" alt="image" src="https://github.com/user-attachments/assets/b9b93347-6a7a-4fc2-9f8f-4c23e790a40e" />
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -125,7 +130,7 @@ Demuestra cómo controlar múltiples paneles de expansión (mat-expansion-panel)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-
+<img width="1209" height="452" alt="image" src="https://github.com/user-attachments/assets/8b5c48dc-f451-4b8a-a6de-b375e47d7e6a" />
 
 ----------------------------------------------------------------------------------------------------------------------------
 
